@@ -1,2 +1,2 @@
 # interactive-quiz
-made with Javascript, css, and HTML. 
+made with Javascript, CSS, and HTML. 
